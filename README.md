@@ -1,5 +1,6 @@
 # Timestamp_Sorting
 Sorts mouse foraging timestamps based on several conditions
+Finds timestamp intervals for several conditions 
 
 TSSort.java is the main class
 
